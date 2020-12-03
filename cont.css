@@ -1,0 +1,86 @@
+form
+{
+ width:100%;
+ border:1px solid #18892D;
+ margin:20px;
+ padding:30px;
+
+}
+
+form 
+{
+ width:35%;
+ border:2px solid #7b18b5;
+ margin:20px;
+ padding:20px;
+
+}
+
+label
+{
+ font-size:20px;
+}
+
+input[type="submit"]{
+ background:	;
+ color:#000;
+ border:none;
+ width:25%;
+padding:10px;
+
+}
+
+input[type="submit"]:hover{
+ background:#4A88F4;
+ cursor:pointer;
+}
+
+input[type="reset"]{
+ background: ;
+ color:#000;
+ border:none;
+ width:25%;
+padding:10px;
+}
+
+input[type="reset"]:hover{
+ background:#4A88F4;
+ cursor:pointer;
+}
+input[type="text"]{
+ background:#9ce2f4;
+ color:#000;
+ border:none;
+padding:8px;
+}
+input[type="number"]{
+ background:#9ce2f4 ;
+ color:#000;
+ border:none;
+padding:8px;
+}
+input[type="tel"]{
+ background:#9ce2f4;
+ color:#000;
+ border:none;
+padding:8px;
+}
+input[type="email"]{
+ background:#9ce2f4;
+ color:#000;
+ border:none;
+padding:8px;
+}
+input[type="date"]{
+ background:#9ce2f4;
+ color:#000;
+ border:none;
+padding:8px;
+}
+input[type="mont"]{
+ background:#9ce2f4;
+ color:#000;
+ border:none;
+padding:5px;
+}
+

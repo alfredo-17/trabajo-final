@@ -1,0 +1,58 @@
+body
+{
+ background:#e6e6e6;
+}
+h1 
+{
+color:blue;
+font-size:55px;
+}
+header, .main
+{
+ width:100%; 
+ margin:100px, auto;
+}
+.menu li
+{
+display: inline;
+word-spacing: 20pt;
+}
+header nav
+{
+ background:#F9F507;
+}
+
+header nav ul li a
+{
+ text-decoration:none;
+}
+.main .articles
+{
+ width:70%; 	
+ float:left;
+}
+
+aside
+{
+ width:30%;
+ background:#FFFFFF;
+ float:left;
+ padding:20px;
+ box-sizing:border-box;
+}
+.main .articles article
+{
+ width:90%;
+ padding:20px;
+ background:#fff;
+ margin-bottom:20px;
+}
+footer
+{
+ background:#000;
+ color:#fff;
+ clear:both; 
+ /*padding:10px 0px;*/
+ text-align:center;
+}
+
