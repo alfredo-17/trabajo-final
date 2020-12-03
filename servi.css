@@ -1,0 +1,34 @@
+table
+{
+ border:1px solid #000; /*borde para la tabla px tipo de color color*/
+ border-collapse:collapse; /*borde de una linea*/
+}
+
+
+table td
+{
+ border:1px solid #000;
+ padding:20px; /*aumenta el tamaño de cada celda*/
+}
+
+.menu
+{
+background:#ccc;
+}
+
+.menu tr td
+{
+padding:10px 20px;
+color:#000;
+}
+
+.menu tr td:hover /*hover permite que el cambie el color del texto al pasar el mouse por el*/
+{
+ background:#ccc;
+ color:#fff;
+}
+.menu tr:hover {
+  background-color: #fff;
+  cursor: pointer;
+}
+/*hover*/
